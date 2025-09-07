@@ -1,0 +1,39 @@
+ai_dungeon_master/
+│── venv/                         # virtual environment (do NOT edit, auto-created)
+│── data/                         # datasets go here
+│   └── raw/                      # raw downloaded dataset (from Kaggle)
+│   └── processed/                # cleaned/processed data
+│
+│── notebooks/                    # Jupyter notebooks for exploration
+│   └── 01_data_exploration.ipynb
+│   └── 02_text_cleaning.ipynb
+│   └── 03_model_experiments.ipynb
+│
+│── src/                          # source code
+│   └── __init__.py
+│   └── preprocessing.py          # text cleaning, tokenization
+│   └── dataset_loader.py         # functions to load datasets
+│   └── models/                   # model implementations
+│       └── __init__.py
+│       └── baseline_model.py     # simple baseline (e.g. Markov, RNN)
+│       └── rl_agent.py           # reinforcement learning agent
+│       └── story_generator.py    # story generation logic
+│
+│── game/                         # RPG game interface
+│   └── __init__.py
+│   └── engine.py                 # main loop for story game
+│   └── player.py                 # player actions
+│   └── npc.py                    # enemy/NPC logic
+│
+│── tests/                        # unit tests for code
+│   └── test_preprocessing.py
+│   └── test_models.py
+│
+│── reports/                      # results, docs, and progress
+│   └── figures/                  # charts, graphs
+│   └── project_plan.md           # weekly goals
+│   └── results.md                # evaluation results
+│
+│── requirements.txt              # dependencies
+│── README.md                     # project description
+│── .gitignore                    # ignore venv/data files if using git

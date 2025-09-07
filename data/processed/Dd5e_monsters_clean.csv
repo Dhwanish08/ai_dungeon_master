@@ -1,0 +1,325 @@
+name,size,alignment,hit_points,armor_class,speed,challenge_rating
+Aboleth,Large,"aberration, Lawful Evil",,,"10 ft., swim 40 ft.","10 (5,900 XP)"
+Acolyte,Medium,"humanoid (any race), Any Alignment",,10.0,30 ft.,1/4 (50 XP)
+Adult Black Dragon,Huge,"dragon, Chaotic Evil",,,"40 ft., fly 80 ft., swim 40 ft.","14 (11,500 XP)"
+Adult Blue Dragon,Huge,"dragon, Lawful Evil",,19.0,"40 ft., burrow 30 ft., fly 80 ft.","16 (15,000 XP)"
+Adult Brass Dragon,Huge,"dragon, Chaotic Good",,,"40 ft., burrow 40 ft., fly 80 ft.","13 (10,000 XP)"
+Adult Bronze Dragon,Huge,"dragon, Lawful Good",,,"40 ft., fly 80 ft., swim 40 ft.","15 (13,000 XP)"
+Adult Copper Dragon,Huge,"dragon, Chaotic Good",,,"40 ft., climb 40 ft., fly 80 ft.","14 (11,500 XP)"
+Adult Gold Dragon,Huge,"dragon, Lawful Good",,,"40 ft., fly 80 ft., swim 40 ft.","17 (18,000 XP)"
+Adult Green Dragon,Huge,"dragon, Lawful Evil",,,"40 ft., fly 80 ft., swim 40 ft.","15 (13,000 XP)"
+Adult Red Dragon,Huge,"dragon, Chaotic Evil",,,"40 ft., climb 40 ft., fly 80 ft.","17 (18,000 XP)"
+Adult Silver Dragon,Huge,"dragon, Lawful Good",,,"40 ft., fly 80 ft.","16 (15,000 XP)"
+Adult White Dragon,Huge,"dragon, Chaotic Evil",,,"40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.","13 (10,000 XP)"
+Air Elemental,Large,"elemental, Neutral",,15.0,"0 ft., fly 90 ft. (hover)","5 (1,800 XP)"
+Ancient Black Dragon,Gargantuan,"dragon, Chaotic Evil",,,"40 ft., fly 80 ft., swim 40 ft.","21 (33,000 XP)"
+Ancient Blue Dragon,Gargantuan,"dragon, Lawful Evil",,,"40 ft., burrow 40 ft., fly 80 ft.","23 (50,000 XP)"
+Ancient Brass Dragon,Gargantuan,"dragon, Chaotic Good",,,"40 ft., burrow 40 ft., fly 80 ft.","20 (25,000 XP)"
+Ancient Bronze Dragon,Gargantuan,"dragon, Lawful Good",,,"40 ft., fly 80 ft., swim 40 ft.","22 (41,000 XP)"
+Ancient Copper Dragon,Gargantuan,"dragon, Chaotic Good",,,"40 ft., climb 40 ft., fly 80 ft.","21 (33,000 XP)"
+Ancient Gold Dragon,Gargantuan,"dragon, Lawful Good",,,"40 ft., fly 80 ft., swim 40 ft.","24 (62,000 XP)"
+Ancient Green Dragon,Gargantuan,"dragon, Lawful Evil",,,"40 ft., fly 80 ft., swim 40 ft.","22 (41,000 XP)"
+Ancient Red Dragon,Gargantuan,"dragon, Chaotic Evil",,,"40 ft., climb 40 ft., fly 80 ft.","24 (62,000 XP)"
+Ancient Silver Dragon,Gargantuan,"dragon, Lawful Good",,,"40 ft., fly 80 ft.","23 (50,000 XP)"
+Ancient White Dragon,Gargantuan,"dragon, Chaotic Evil",,,"40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.","20 (25,000 XP)"
+Androsphinx,Large,"monstrosity, Lawful Neutral",,,"40 ft., fly 60 ft.","17 (18,000 XP)"
+Animated Armor,Medium,"construct, Unaligned",,,25 ft.,1 (200 XP)
+Ankheg,Large,"monstrosity, Unaligned",,,"30 ft., burrow 10 ft.",2 (450 XP)
+Ape,Medium,"beast, Unaligned",,12.0,"30 ft., climb 30 ft.",1/2 (100 XP)
+Archmage,Medium,"humanoid (any race), Any Alignment",,,30 ft.,"12 (8,400 XP)"
+Assassin,Medium,"humanoid (any race), Any Non-good Alignment",,,30 ft.,"8 (3,900 XP)"
+Awakened Shrub,Small,"plant, Unaligned",,9.0,20 ft.,0 (10 XP)
+Awakened Tree,Huge,"plant, Unaligned",,,20 ft.,2 (450 XP)
+Axe Beak,Large,"beast, Unaligned",,11.0,50 ft.,1/4 (50 XP)
+Azer,Medium,"elemental, Lawful Neutral",,,30 ft.,2 (450 XP)
+Baboon,Small,"beast, Unaligned",,12.0,"30 ft., climb 30 ft.",0 (10 XP)
+Badger,Tiny,"beast, Unaligned",,10.0,"20 ft., burrow 5 ft.",0 (10 XP)
+Balor,Huge,"fiend (demon), Chaotic Evil",,,"40 ft., fly 80 ft.","19 (22,000 XP)"
+Bandit,Medium,"humanoid (any race), Any Non-lawful Alignment",,,30 ft.,1/8 (25 XP)
+Bandit Captain,Medium,"humanoid (any race), Any Non-lawful Alignment",,,30 ft.,2 (450 XP)
+Barbed Devil,Medium,"fiend (devil), Lawful Evil",,,30 ft.,"5 (1,800 XP)"
+Basilisk,Medium,"monstrosity, Unaligned",,,20 ft.,3 (700 XP)
+Bat,Tiny,"beast, Unaligned",,12.0,"5 ft., fly 30 ft.",0 (10 XP)
+Bearded Devil,Medium,"fiend (devil), Lawful Evil",,,30 ft.,3 (700 XP)
+Behir,Huge,"monstrosity, Neutral Evil",,,"50 ft., climb 40 ft.","11 (7,200 XP)"
+Berserker,Medium,"humanoid (any race), Any Chaotic Alignment",,,30 ft.,2 (450 XP)
+Black Bear,Medium,"beast, Unaligned",,,"40 ft., climb 30 ft.",1/2 (100 XP)
+Black Dragon Wyrmling,Medium,"dragon, Chaotic Evil",,,"30 ft., fly 60 ft., swim 30 ft.",2 (450 XP)
+Black Pudding,Large,"ooze, Unaligned",,7.0,"20 ft., climb 20 ft.","4 (1,100 XP)"
+Blink Dog,Medium,"fey, Lawful Good",,13.0,40 ft.,1/4 (50 XP)
+Blood Hawk,Small,"beast, Unaligned",,12.0,"10 ft., fly 60 ft.",1/8 (25 XP)
+Blue Dragon Wyrmling,Medium,"dragon, Lawful Evil",,,"30 ft., burrow 15 ft., fly 60 ft.",3 (700 XP)
+Boar,Medium,"beast, Unaligned",,,40 ft.,1/4 (50 XP)
+Bone Devil,Large,"fiend (devil), Lawful Evil",,,"40 ft., fly 40 ft.","9 (5,000 XP)"
+Brass Dragon Wyrmling,Medium,"dragon, Chaotic Good",,,"30 ft., burrow 15 ft., fly 60 ft.",1 (200 XP)
+Bronze Dragon Wyrmling,Medium,"dragon, Lawful Good",,,"30 ft., fly 60 ft., swim 30 ft.",2 (450 XP)
+Brown Bear,Large,"beast, Unaligned",,,"40 ft., climb 30 ft.",1 (200 XP)
+Bugbear,Medium,"humanoid (goblinoid), Chaotic Evil",,,30 ft.,1 (200 XP)
+Bulette,Large,"monstrosity, Unaligned",,,"40 ft., burrow 40 ft.","5 (1,800 XP)"
+Camel,Large,"beast, Unaligned",,9.0,50 ft.,1/8 (25 XP)
+Cat,Tiny,"beast, Unaligned",,12.0,"40 ft., climb 30 ft.",0 (10 XP)
+Centaur,Large,"monstrosity, Neutral Good",,12.0,50 ft.,2 (450 XP)
+Chain Devil,Medium,"fiend (devil), Lawful Evil",,,30 ft.,"8 (3,900 XP)"
+Chimera,Large,"monstrosity, Chaotic Evil",,,"30 ft., fly 60 ft.","6 (2,300 XP)"
+Chuul,Large,"aberration, Chaotic Evil",,,"30 ft., swim 30 ft.","4 (1,100 XP)"
+Clay Golem,Large,"construct, Unaligned",,,20 ft.,"9 (5,000 XP)"
+Cloaker,Large,"aberration, Chaotic Neutral",,,"10 ft., fly 40 ft.","8 (3,900 XP)"
+Cloud Giant,Huge,"giant, Neutral Good (50%) Or Neutral Evil (50%)",,,40 ft.,"9 (5,000 XP)"
+Cockatrice,Small,"monstrosity, Unaligned",,11.0,"20 ft., fly 40 ft.",1/2 (100 XP)
+Commoner,Medium,"humanoid (any race), Any Alignment",,10.0,30 ft.,0 (10 XP)
+Constrictor Snake,Large,"beast, Unaligned",,12.0,"30 ft., swim 30 ft.",1/4 (50 XP)
+Copper Dragon Wyrmling,Medium,"dragon, Chaotic Good",,,"30 ft., climb 30 ft., fly 60 ft.",1 (200 XP)
+Couatl,Medium,"celestial, Lawful Good",,,"30 ft., fly 90 ft.","4 (1,100 XP)"
+Crab,Tiny,"beast, Unaligned",,,"20 ft., swim 20 ft.",0 (10 XP)
+Crocodile,Large,"beast, Unaligned",,,"20 ft., swim 30 ft.",1/2 (100 XP)
+Cult Fanatic,Medium,"humanoid (any race), Any Non-good Alignment",,,30 ft.,2 (450 XP)
+Cultist,Medium,"humanoid (any race), Any Non-good Alignment",,,30 ft.,1/8 (25 XP)
+Darkmantle,Small,"monstrosity, Unaligned",,11.0,"10 ft., fly 30 ft.",1/2 (100 XP)
+Death Dog,Medium,"monstrosity, Neutral Evil",,12.0,40 ft.,1 (200 XP)
+Deep Gnome (Svirfneblin),Small,"humanoid (gnome), Neutral Good",,,20 ft.,1/2 (100 XP)
+Deer,Medium,"beast, Unaligned",,13.0,50 ft.,0 (10 XP)
+Deva,Medium,"celestial, Lawful Good",,,"30 ft., fly 90 ft.","10 (5,900 XP)"
+Dire Wolf,Large,"beast, Unaligned",,,50 ft.,1 (200 XP)
+Diseased Giant Rat,Small,"beast, Unaligned",7.0,12.0,30 ft.,1/8 (25 XP)
+Djinni,Large,"elemental, Chaotic Good",,,"30 ft., fly 90 ft.","11 (7,200 XP)"
+Doppelganger,Medium,"monstrosity (shapechanger), Unaligned",,14.0,30 ft.,3 (700 XP)
+Draft Horse,Large,"beast, Unaligned",,10.0,40 ft.,1/4 (50 XP)
+Dragon Turtle,Gargantuan,"dragon, Neutral",,,"20 ft., swim 40 ft.","17 (18,000 XP)"
+Dretch,Small,"fiend (demon), Chaotic Evil",,,20 ft.,1/4 (50 XP)
+Drider,Large,"monstrosity, Chaotic Evil",,,"30 ft., climb 30 ft.","6 (2,300 XP)"
+Drow,Medium,"humanoid (elf), Neutral Evil",,,30 ft.,1/4 (50 XP)
+Druid,Medium,"humanoid (any race), Any Alignment",,,30 ft.,2 (450 XP)
+Dryad,Medium,"fey, Neutral",,,30 ft.,1 (200 XP)
+Duergar,Medium,"humanoid (dwarf), Lawful Evil",,,25 ft.,1 (200 XP)
+Dust Mephit,Small,"elemental, Neutral Evil",,12.0,"30 ft., fly 30 ft.",1/2 (100 XP)
+Eagle,Small,"beast, Unaligned",,12.0,"10 ft., fly 60 ft.",0 (10 XP)
+Earth Elemental,Large,"elemental, Neutral",,,"30 ft., burrow 30 ft.","5 (1,800 XP)"
+Efreeti,Large,"elemental, Lawful Evil",,,"40 ft., fly 60 ft.","11 (7,200 XP)"
+Elephant,Huge,"beast, Unaligned",,,40 ft.,"4 (1,100 XP)"
+Elk,Large,"beast, Unaligned",,10.0,50 ft.,1/4 (50 XP)
+Erinyes,Medium,"fiend (devil), Lawful Evil",,,"30 ft., fly 60 ft.","12 (8,400 XP)"
+Ettercap,Medium,"monstrosity, Neutral Evil",,,"30 ft., climb 30 ft.",2 (450 XP)
+Ettin,Large,"giant, Chaotic Evil",,,40 ft.,"4 (1,100 XP)"
+Fire Elemental,Large,"elemental, Neutral",,13.0,50 ft.,"5 (1,800 XP)"
+Fire Giant,Huge,"giant, Lawful Evil",,,30 ft.,"9 (5,000 XP)"
+Flesh Golem,Medium,"construct, Neutral",,9.0,30 ft.,"5 (1,800 XP)"
+Flying Snake,Tiny,"beast, Unaligned",,14.0,"30 ft., fly 60 ft., swim 30 ft.",1/8 (25 XP)
+Flying Sword,Small,"construct, Unaligned",,,"0 ft., fly 50 ft. It can hover.",1/4 (50 XP)
+Frog,Tiny,"beast, Unaligned",,11.0,"20 ft., swim 20 ft.",0 (10 XP)
+Frost Giant,Huge,"giant, Neutral Evil",,,40 ft.,"8 (3,900 XP)"
+Gargoyle,Medium,"elemental, Chaotic Evil",,,"30 ft., fly 60 ft.",2 (450 XP)
+Gelatinous Cube,Large,"ooze, Unaligned",,6.0,15 ft.,2 (450 XP)
+Ghast,Medium,"undead, Chaotic Evil",,13.0,30 ft.,2 (450 XP)
+Ghost,Medium,"undead, Any Alignment",,11.0,"0 ft., fly 40 ft. It can hover.","4 (1,100 XP)"
+Ghoul,Medium,"undead, Chaotic Evil",,12.0,30 ft.,1 (200 XP)
+Giant Ape,Huge,"beast, Unaligned",,12.0,"40 ft., climb 40 ft.","7 (2,900 XP)"
+Giant Badger,Medium,"beast, Unaligned",,10.0,"30 ft., burrow 10 ft.",1/4 (50 XP)
+Giant Bat,Large,"beast, Unaligned",,13.0,"10 ft., fly 60 ft.",1/4 (50 XP)
+Giant Boar,Large,"beast, Unaligned",,,40 ft.,2 (450 XP)
+Giant Centipede,Small,"beast, Unaligned",,,"30 ft., climb 30 ft.",1/4 (50 XP)
+Giant Constrictor Snake,Huge,"beast, Unaligned",,12.0,"30 ft., swim 30 ft.",2 (450 XP)
+Giant Crab,Medium,"beast, Unaligned",,,"30 ft., swim 30 ft.",1/8 (25 XP)
+Giant Crocodile,Huge,"beast, Unaligned",,,"30 ft., swim 50 ft.","5 (1,800 XP)"
+Giant Eagle,Large,"beast, Neutral Good",,13.0,"10 ft., fly 80 ft.",1 (200 XP)
+Giant Elk,Huge,"beast, Unaligned",,,60 ft.,2 (450 XP)
+Giant Fire Beetle,Small,"beast, Unaligned",,,30 ft.,0 (10 XP)
+Giant Frog,Medium,"beast, Unaligned",,11.0,"30 ft., swim 30 ft.",1/4 (50 XP)
+Giant Goat,Large,"beast, Unaligned",,,40 ft.,1/2 (100 XP)
+Giant Hyena,Large,"beast, Unaligned",,12.0,50 ft.,1 (200 XP)
+Giant Lizard,Large,"beast, Unaligned",,,"30 ft., climb 30 ft.",1/4 (50 XP)
+Giant Octopus,Large,"beast, Unaligned",,11.0,"10 ft., swim 60 ft.",1 (200 XP)
+Giant Owl,Large,"beast, Neutral",,12.0,"5 ft., fly 60 ft.",1/4 (50 XP)
+Giant Poisonous Snake,Medium,"beast, Unaligned",,14.0,"30 ft., swim 30 ft.",1/4 (50 XP)
+Giant Rat,Small,"beast, Unaligned",,12.0,30 ft.,1/8 (25 XP)
+Giant Scorpion,Large,"beast, Unaligned",,,40 ft.,3 (700 XP)
+Giant Sea Horse,Large,"beast, Unaligned",,,"0 ft., swim 40 ft.",1/2 (100 XP)
+Giant Shark,Huge,"beast, Unaligned",,,Swim 50 ft.,"5 (1,800 XP)"
+Giant Spider,Large,"beast, Unaligned",,,"30 ft., climb 30 ft.",1 (200 XP)
+Giant Toad,Large,"beast, Unaligned",,11.0,"20 ft., swim 40 ft.",1 (200 XP)
+Giant Vulture,Large,"beast, Neutral Evil",,10.0,"10 ft., fly 60 ft.",1 (200 XP)
+Giant Wasp,Medium,"beast, Unaligned",,12.0,"10 ft., fly 50 ft.",1/2 (100 XP)
+Giant Weasel,Medium,"beast, Unaligned",,13.0,40 ft.,1/8 (25 XP)
+Giant Wolf Spider,Medium,"beast, Unaligned",,13.0,"40 ft., climb 40 ft.",1/4 (50 XP)
+Gibbering Mouther,Medium,"aberration, Neutral",,9.0,"10 ft., swim 10 ft.",2 (450 XP)
+Glabrezu,Large,"fiend (demon), Chaotic Evil",,,40 ft.,"9 (5,000 XP)"
+Gladiator,Medium,"humanoid (any race), Any Alignment",,,30 ft.,"5 (1,800 XP)"
+Gnoll,Medium,"humanoid (gnoll), Chaotic Evil",,,30 ft.,1/2 (100 XP)
+Goat,Medium,"beast, Unaligned",,10.0,40 ft.,0 (10 XP)
+Goblin,Small,"humanoid (goblinoid), Neutral Evil",,,30 ft.,1/4 (50 XP)
+Gold Dragon Wyrmling,Medium,"dragon, Lawful Good",,,"30 ft., fly 60 ft., swim 30 ft.",3 (700 XP)
+Gorgon,Large,"monstrosity, Unaligned",,,40 ft.,"5 (1,800 XP)"
+Gray Ooze,Medium,"ooze, Unaligned",,8.0,"10 ft., climb 10 ft.",1/2 (100 XP)
+Green Dragon Wyrmling,Medium,"dragon, Lawful Evil",,,"30 ft., fly 60 ft., swim 30 ft.",2 (450 XP)
+Green Hag,Medium,"fey, Neutral Evil",,,30 ft.,3 (700 XP)
+Grick,Medium,"monstrosity, Neutral",,,"30 ft., climb 30 ft.",2 (450 XP)
+Griffon,Large,"monstrosity, Unaligned",,12.0,"30 ft., fly 80 ft.",2 (450 XP)
+Grimlock,Medium,"humanoid (grimlock), Neutral Evil",,11.0,30 ft.,1/4 (50 XP)
+Guard,Medium,"humanoid (any race), Any Alignment",,,30 ft.,1/8 (25 XP)
+Guardian Naga,Large,"monstrosity, Lawful Good",,,40 ft.,"10 (5,900 XP)"
+Gynosphinx,Large,"monstrosity, Lawful Neutral",,,"40 ft., fly 60 ft.","11 (7,200 XP)"
+Half-Red Dragon Veteran,Medium,"humanoid (human), Any",,,30 ft.,"5 (1,800 XP)"
+Harpy,Medium,"monstrosity, Chaotic Evil",,11.0,"20 ft., fly 40 ft.",1 (200 XP)
+Hawk,Tiny,"beast, Unaligned",,13.0,"10 ft., fly 60 ft.",0 (10 XP)
+Hell Hound,Medium,"fiend, Lawful Evil",,,50 ft.,3 (700 XP)
+Hezrou,Large,"fiend (demon), Chaotic Evil",,,30 ft.,"8 (3,900 XP)"
+Hill Giant,Huge,"giant, Chaotic Evil",,,40 ft.,"5 (1,800 XP)"
+Hippogriff,Large,"monstrosity, Unaligned",,11.0,"40 ft, fly 60 ft.",1 (200 XP)
+Hobgoblin,Medium,"humanoid (goblinoid), Lawful Evil",,,30 ft.,1/2 (100 XP)
+Homunculus,Tiny,"construct, Neutral",,,"20 ft., fly 40 ft.",0 (10 XP)
+Horned Devil,Large,"fiend (devil), Lawful Evil",,,"20 ft., fly 60 ft.","11 (7,200 XP)"
+Hunter Shark,Large,"beast, Unaligned",,,Swim 40 ft.,2 (450 XP)
+Hydra,Huge,"monstrosity, Unaligned",,,"30 ft., swim 30 ft.","8 (3,900 XP)"
+Hyena,Medium,"beast, Unaligned",,11.0,50 ft.,0 (10 XP)
+Ice Devil,Large,"fiend (devil), Lawful Evil",,,40 ft.,"14 (11,500 XP)"
+Ice Mephit,Small,"elemental, Neutral Evil",,11.0,"30 ft., fly 30 ft.",1/2 (100 XP)
+Imp,Tiny,"fiend (devil, shapechanger), Lawful Evil",,13.0,"20 ft., fly 40 ft.",1 (200 XP)
+Incubus,Medium,"Fiend (Shapechanger), Neutral Evil",,,"30 ft., fly 60 ft.","4 (1,100 XP)"
+Invisible Stalker,Medium,"elemental, Neutral",,14.0,"50 ft., fly 50 ft. (hover)","6 (2,300 XP)"
+Iron Golem,Large,"construct, Unaligned",,,30 ft.,"16 (15,000 XP)"
+Jackal,Small,"beast, Unaligned",,12.0,40 ft.,0 (10 XP)
+Killer Whale,Huge,"beast, Unaligned",,,Swim 60 ft.,3 (700 XP)
+Knight,Medium,"humanoid (any race), Any Alignment",,,30 ft.,3 (700 XP)
+Kobold,Small,"humanoid (kobold), Lawful Evil",,12.0,30 ft.,1/8 (25 XP)
+Kraken,Gargantuan,"monstrosity (titan), Chaotic Evil",,,"20 ft., swim 60 ft.","23 (50,000 XP)"
+Lamia,Large,"monstrosity, Chaotic Evil",,,30 ft.,"4 (1,100 XP)"
+Lemure,Medium,"fiend (devil), Lawful Evil",,7.0,15 ft.,0 (10 XP)
+Lich,Medium,"undead, Any Evil Alignment",,,30 ft.,"21 (33,000 XP)"
+Lion,Large,"beast, Unaligned",,12.0,50 ft.,1 (200 XP)
+Lizard,Tiny,"beast, Unaligned",,10.0,"20 ft., climb 20 ft.",0 (10 XP)
+Lizardfolk,Medium,"humanoid (lizardfolk), Neutral",,,"30 ft., swim 30 ft.",1/2 (100 XP)
+Mage,Medium,"humanoid (any race), Any Alignment",,,30 ft.,"6 (2,300 XP)"
+Magma Mephit,Small,"elemental, Neutral Evil",,11.0,"30 ft., fly 30 ft.",1/2 (100 XP)
+Magmin,Small,"elemental, Chaotic Neutral",,,30 ft.,1/2 (100 XP)
+Mammoth,Huge,"beast, Unaligned",,,40 ft.,"6 (2,300 XP)"
+Manticore,Large,"monstrosity, Lawful Evil",,,"30 ft., fly 50 ft.",3 (700 XP)
+Marilith,Large,"fiend (demon), Chaotic Evil",,,40 ft.,"16 (15,000 XP)"
+Mastiff,Medium,"beast, Unaligned",,12.0,40 ft.,1/8 (25 XP)
+Medusa,Medium,"monstrosity, Lawful Evil",,,30 ft.,"6 (2,300 XP)"
+Merfolk,Medium,"humanoid (merfolk), Neutral",,11.0,"10 ft., swim 40 ft.",1/8 (25 XP)
+Merrow,Large,"monstrosity, Chaotic Evil",,,"10 ft., swim 40 ft.",2 (450 XP)
+Mimic,Medium,"monstrosity (shapechanger), Neutral",,,15 ft.,2 (450 XP)
+Minotaur,Large,"monstrosity, Chaotic Evil",,,40 ft.,3 (700 XP)
+Minotaur Skeleton,Large,"undead, Lawful Evil",,,40 ft.,2 (450 XP)
+Mule,Medium,"beast, Unaligned",,10.0,40 ft.,1/8 (25 XP)
+Mummy,Medium,"undead, Lawful Evil",,,20 ft.,3 (700 XP)
+Mummy Lord,Medium,"undead, Lawful Evil",,,20 ft.,"15 (13,000 XP)"
+Nalfeshnee,Large,"fiend (demon), Chaotic Evil",,,"20 ft., fly 30 ft.","13 (10,000 XP)"
+Night Hag,Medium,"fiend, Neutral Evil",,,30 ft.,"5 (1,800 XP)"
+Nightmare,Large,"fiend, Neutral Evil",,,"60 ft., fly 90 ft.",3 (700 XP)
+Noble,Medium,"humanoid (any race), Any Alignment",,,30 ft.,1/8 (25 XP)
+Ochre Jelly,Large,"ooze, Unaligned",,8.0,"10 ft., climb 10 ft.",2 (450 XP)
+Octopus,Small,"beast, Unaligned",,12.0,"5 ft., swim 30 ft.",0 (10 XP)
+Ogre,Large,"giant, Chaotic Evil",,,40 ft.,2 (450 XP)
+Ogre Zombie,Large,"undead, Neutral Evil",,8.0,30 ft.,2 (450 XP)
+Oni,Large,"giant, Lawful Evil",,,"30 ft., fly 30 ft.","7 (2,900 XP)"
+Orc,Medium,"humanoid (orc), Chaotic Evil",,,30 ft.,1/2 (100 XP)
+Otyugh,Large,"aberration, Neutral",,,30 ft.,"5 (1,800 XP)"
+Owl,Tiny,"beast, Unaligned",,11.0,"5 ft., fly 60 ft.",0 (10 XP)
+Owlbear,Large,"monstrosity, Unaligned",,,40 ft.,3 (700 XP)
+Panther,Medium,"beast, Unaligned",,12.0,"50 ft., climb 40 ft.",1/4 (50 XP)
+Pegasus,Large,"celestial, Chaotic Good",,12.0,"60 ft., fly 90 ft.",2 (450 XP)
+Phase Spider,Large,"monstrosity, Unaligned",,,"30 ft., climb 30 ft.",3 (700 XP)
+Pit Fiend,Large,"fiend (devil), Lawful Evil",,,"30 ft., fly 60 ft.","20 (25,000 XP)"
+Planetar,Large,"celestial, Lawful Good",,,"40 ft., fly 120 ft.","16 (15,000 XP)"
+Plesiosaurus,Large,"beast, Unaligned",,,"20 ft., swim 40 ft.",2 (450 XP)
+Poisonous Snake,Tiny,"beast, Unaligned",,13.0,"30 ft., swim 30 ft.",1/8 (25 XP)
+Polar Bear,Large,"beast, Unaligned",,,"40 ft., swim 30 ft.",2 (450 XP)
+Pony,Medium,"beast, Unaligned",,10.0,40 ft.,1/8 (25 XP)
+Priest,Medium,"humanoid (any race), Any Alignment",,,25 ft.,2 (450 XP)
+Pseudodragon,Tiny,"dragon, Neutral Good",,13.0,"15 ft., fly 60 ft.",1/4 (50 XP)
+Purple Worm,Gargantuan,"monstrosity, Unaligned",,,"50 ft., burrow 30 ft.","15 (13,000 XP)"
+Quasit,Tiny,"fiend (demon), Chaotic Evil",,13.0,40 ft.,1 (200 XP)
+Quipper,Tiny,"beast, Unaligned",,13.0,Swim 40 ft.,0 (10 XP)
+Rakshasa,Medium,"fiend, Lawful Evil",,,40 ft.,"13 (10,000 XP)"
+Rat,Tiny,"beast, Unaligned",,10.0,20 ft.,0 (10 XP)
+Raven,Tiny,"beast, Unaligned",,12.0,"10 ft., fly 50 ft.",0 (10 XP)
+Red Dragon Wyrmling,Medium,"dragon, Chaotic Evil",,,"30 ft., climb 30 ft., fly 60 ft.","4 (1,100 XP)"
+Reef Shark,Medium,"beast, Unaligned",,,Swim 40 ft.,1/2 (100 XP)
+Remorhaz,Huge,"monstrosity, Unaligned",,,"30 ft., burrow 20 ft.","11 (7,200 XP)"
+Rhinoceros,Large,"beast, Unaligned",,,40 ft.,2 (450 XP)
+Riding Horse,Large,"beast, Unaligned",,10.0,60 ft.,1/4 (50 XP)
+Roc,Gargantuan,"monstrosity, Unaligned",,,"20 ft., fly 120 ft.","11 (7,200 XP)"
+Roper,Large,"monstrosity, Neutral Evil",,,"10 ft., climb 10 ft.","5 (1,800 XP)"
+Rug of Smothering,Large,"construct, Unaligned",,12.0,10 ft.,2 (450 XP)
+Rust Monster,Medium,"monstrosity, Unaligned",,,40 ft.,1/2 (100 XP)
+Saber-Toothed Tiger,Large,"beast, Unaligned",,12.0,40 ft.,2 (450 XP)
+Sahuagin,Medium,"humanoid (sahuagin), Lawful Evil",,,"30 ft., swim 40 ft.",1/2 (100 XP)
+Salamander,Large,"elemental, Neutral Evil",,,30 ft.,"5 (1,800 XP)"
+Satyr,Medium,"fey, Chaotic Neutral",,,40 ft.,1/2 (100 XP)
+Scorpion,Tiny,"beast, Unaligned",,,10 ft.,0 (10 XP)
+Scout,Medium,"humanoid (any race), Any Alignment",,,30 ft.,1/2 (100 XP)
+Sea Hag,Medium,"fey, Chaotic Evil",,,"30 ft., swim 40 ft.",2 (450 XP)
+Sea Horse,Tiny,"beast, Unaligned",,11.0,Swim 20 ft.,0 (10 XP)
+Shadow,Medium,"undead, Chaotic Evil",,12.0,40 ft.,1/2 (100 XP)
+Shambling Mound,Large,"plant, Unaligned",,,"20 ft., swim 20 ft.","5 (1,800 XP)"
+Shield Guardian,Large,"construct, Unaligned",,,30 ft.,"7 (2,900 XP)"
+Shrieker,Medium,"plant, Unaligned",,5.0,0 ft.,0 (10 XP)
+Silver Dragon Wyrmling,Medium,"dragon, Lawful Good",,,"30 ft., fly 60 ft.",2 (450 XP)
+Skeleton,Medium,"undead, Lawful Evil",,,30 ft.,1/4 (50 XP)
+Solar,Large,"celestial, Lawful Good",,,"50 ft., fly 150 ft.","21 (33,000 XP)"
+Specter,Medium,"undead, Chaotic Evil",,12.0,"0 ft., fly 50 ft. (hover)",1 (200 XP)
+Spider,Tiny,"beast, Unaligned",,12.0,"20 ft., climb 20 ft.",0 (10 XP)
+Spirit Naga,Large,"monstrosity, Chaotic Evil",,,40 ft.,"8 (3,900 XP)"
+Sprite,Tiny,"fey, Neutral Good",,,"10 ft., fly 40 ft.",1/4 (50 XP)
+Spy,Medium,"humanoid (any race), Any Alignment",,12.0,30 ft.,1 (200 XP)
+Steam Mephit,Small,"elemental, Neutral Evil",,10.0,"30 ft., fly 30 ft.",1/4 (50 XP)
+Stirge,Tiny,"beast, Unaligned",,,"10 ft., fly 40 ft.",1/8 (25 XP)
+Stone Giant,Huge,"giant, Neutral",,,40 ft.,"7 (2,900 XP)"
+Stone Golem,Large,"construct, Unaligned",,,30 ft.,"10 (5,900 XP)"
+Storm Giant,Huge,"giant, Chaotic Good",,,"50 ft., swim 50 ft.","13 (10,000 XP)"
+Succubus,Medium,"Fiend (Shapechanger), Neutral Evil",,,"30 ft., fly 60 ft.","4 (1,100 XP)"
+Succubus (Incubus),Medium,"fiend (shapechanger), Neutral Evil",,,"30 ft., fly 60 ft.","4 (1,100 XP)"
+Swarm of Bats,Medium,"swarm of tiny beasts, Unaligned",,12.0,"0 ft., fly 30 ft.",1/4 (50 XP)
+Swarm of Beetles,Medium,"swarm of tiny beasts, Unaligned",,,"20 ft., burrow 5 ft., climb 20 ft.",1/2 (100 XP)
+Swarm of Centipedes,Medium,"swarm of tiny beasts, Unaligned",,,"20 ft., climb 20 ft.",1/2 (100 XP)
+Swarm of Insects,Medium,"swarm of tiny beasts, Unaligned",,,"20 ft., climb 20 ft.",1/2 (100 XP)
+Swarm of Poisonous Snakes,Medium,"swarm of tiny beasts, Unaligned",,14.0,"30 ft., swim 30 ft.",2 (450 XP)
+Swarm of Quippers,Medium,"swarm of tiny beasts, Unaligned",,13.0,"0 ft., swim 40 ft.",1 (200 XP)
+Swarm of Rats,Medium,"swarm of tiny beasts, Unaligned",,10.0,30 ft.,1/4 (50 XP)
+Swarm of Ravens,Medium,"swarm of tiny beasts, Unaligned",,12.0,"10 ft., fly 50 ft.",1/4 (50 XP)
+Swarm of Spiders,Medium,"swarm of tiny beasts, Unaligned",,,"20 ft., climb 20 ft.",1/2 (100 XP)
+Swarm of Wasps,Medium,"swarm of tiny beasts, Unaligned",,,"5 ft., fly 30 ft.",1/2 (100 XP)
+Tarrasque,Gargantuan,"monstrosity (titan), Unaligned",,,40 ft.,"30 (155,000 XP)"
+Thug,Medium,"humanoid (any race), Any Non-good Alignment",,,30 ft.,1/2 (100 XP)
+Tiger,Large,"beast, Unaligned",,12.0,40 ft.,1 (200 XP)
+Treant,Huge,"plant, Chaotic Good",,,30 ft.,"9 (5,000 XP)"
+Tribal Warrior,Medium,"humanoid (any race), Any Alignment",,,30 ft.,1/8 (25 XP)
+Triceratops,Huge,"beast, Unaligned",,,50 ft.,"5 (1,800 XP)"
+Troll,Large,"giant, Chaotic Evil",,,30 ft.,"5 (1,800 XP)"
+Tyrannosaurus Rex,Huge,"beast, Unaligned",,,50 ft.,"8 (3,900 XP)"
+Unicorn,Large,"celestial, Lawful Good",,12.0,50 ft.,"5 (1,800 XP)"
+Vampire,Medium,"undead (shapechanger), Lawful Evil",,,30 ft.,"13 (10,000 XP)"
+Vampire Spawn,Medium,"undead, Neutral Evil",,,30 ft.,"5 (1,800 XP)"
+Veteran,Medium,"humanoid (any race), Any Alignment",,,30 ft.,3 (700 XP)
+Violet Fungus,Medium,"plant, Unaligned",,5.0,5 ft.,1/4 (50 XP)
+Vrock,Large,"fiend (demon), Chaotic Evil",,,"40 ft., fly 60 ft.","6 (2,300 XP)"
+Vulture,Medium,"beast, Unaligned",,10.0,"10 ft., fly 50 ft.",0 (10 XP)
+Warhorse,Large,"beast, Unaligned",,11.0,60 ft.,1/2 (100 XP)
+Warhorse Skeleton,Large,"undead, Lawful Evil",,,60 ft.,1/2 (100 XP)
+Water Elemental,Large,"elemental, Neutral",,,"30 ft., swim 90 ft.","5 (1,800 XP)"
+Weasel,Tiny,"beast, Unaligned",,13.0,30 ft.,0 (10 XP)
+Werebear,Medium,"humanoid (human, shapechanger), Neutral Good",,,"30 ft. (40 ft., climb 30 ft. in bear or hybrid form)","5 (1,800 XP)"
+Wereboar,Medium,"humanoid (human, shapechanger), Neutral Evil",,,30 ft. (40 ft. in boar form),"4 (1,100 XP)"
+Wererat,Medium,"humanoid (human, shapechanger), Lawful Evil",,12.0,30 ft.,2 (450 XP)
+Weretiger,Medium,"humanoid (human, shapechanger), Neutral",,12.0,30 ft. (40 ft. in tiger form),"4 (1,100 XP)"
+Werewolf,Medium,"humanoid (human, shapechanger), Chaotic Evil",,,30 ft. (40 ft. in wolf form),3 (700 XP)
+White Dragon Wyrmling,Medium,"dragon, Chaotic Evil",,,"30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.",2 (450 XP)
+Wight,Medium,"undead, Neutral Evil",,,30 ft.,3 (700 XP)
+Will-o'-Wisp,Tiny,"undead, Chaotic Evil",22.0,19.0,"0 ft., fly 50 ft. (hover)",2 (450 XP)
+Winter Wolf,Large,"monstrosity, Neutral Evil",,,50 ft.,3 (700 XP)
+Wolf,Medium,"beast, Unaligned",,,40 ft.,1/4 (50 XP)
+Worg,Large,"monstrosity, Neutral Evil",,,50 ft.,1/2 (100 XP)
+Wraith,Medium,"undead, Neutral Evil",,13.0,"0 ft., fly 60 ft. (hover)","5 (1,800 XP)"
+Wyvern,Large,"dragon, Unaligned",,,"20 ft., fly 80 ft.","6 (2,300 XP)"
+Xorn,Medium,"elemental, Neutral",,,"20 ft., burrow 20 ft.","5 (1,800 XP)"
+Young Black Dragon,Large,"dragon, Chaotic Evil",,,"40 ft., fly 80 ft., swim 40 ft.","7 (2,900 XP)"
+Young Blue Dragon,Large,"dragon, Lawful Evil",,,"40 ft., burrow 40 ft., fly 80 ft.","9 (5,000 XP)"
+Young Brass Dragon,Large,"dragon, Chaotic Good",,,"40 ft., burrow 20 ft., fly 80 ft.","6 (2,300 XP)"
+Young Bronze Dragon,Large,"dragon, Lawful Good",,,"40 ft., fly 80 ft., swim 40 ft.","8 (3,900 XP)"
+Young Copper Dragon,Large,"dragon, Chaotic Good",,,"40 ft., climb 40 ft., fly 80 ft.","7 (2,900 XP)"
+Young Gold Dragon,Large,"dragon, Lawful Good",,,"40 ft., fly 80 ft., swim 40 ft.","10 (5,900 XP)"
+Young Green Dragon,Large,"dragon, Lawful Evil",,,"40 ft., fly 80 ft., swim 40 ft.","8 (3,900 XP)"
+Young Red Dragon,Large,"dragon, Chaotic Evil",,,"40 ft., climb 40 ft., fly 80 ft.","10 (5,900 XP)"
+Young Silver Dragon,Large,"dragon, Lawful Good",,,"40 ft., fly 80 ft.","9 (5,000 XP)"
+Young White Dragon,Large,"dragon, Chaotic Evil",,,"40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.","6 (2,300 XP)"
+Zombie,Medium,"undead, Neutral Evil",,8.0,20 ft.,1/4 (50 XP)
