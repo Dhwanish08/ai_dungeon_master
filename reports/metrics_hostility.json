@@ -1,0 +1,36 @@
+{
+  "task": "hostility_binary",
+  "best_model": "SoftVoting",
+  "cv_mean_acc": 0.7255656108597285,
+  "test_acc": 0.676923076923077,
+  "classification_report": {
+    "hostile": {
+      "precision": 0.5333333333333333,
+      "recall": 0.36363636363636365,
+      "f1-score": 0.43243243243243246,
+      "support": 22.0
+    },
+    "non_hostile": {
+      "precision": 0.72,
+      "recall": 0.8372093023255814,
+      "f1-score": 0.7741935483870968,
+      "support": 43.0
+    },
+    "accuracy": 0.676923076923077,
+    "macro avg": {
+      "precision": 0.6266666666666667,
+      "recall": 0.6004228329809725,
+      "f1-score": 0.6033129904097646,
+      "support": 65.0
+    },
+    "weighted avg": {
+      "precision": 0.6568205128205128,
+      "recall": 0.676923076923077,
+      "f1-score": 0.6585205552947488,
+      "support": 65.0
+    }
+  },
+  "artifacts": {
+    "model": "reports/artifacts/hostility_model.joblib"
+  }
+}

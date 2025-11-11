@@ -1,0 +1,10 @@
+{
+  "intent_label": "explore",
+  "intent_confidence": 0.66,
+  "monster_action": {
+    "action": "idle",
+    "detail": "The forest watches, waiting."
+  }
+}
+
+

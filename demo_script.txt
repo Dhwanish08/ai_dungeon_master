@@ -1,0 +1,27 @@
+Demo walkthrough script
+-----------------------
+
+1) Intro (10–15s)
+- “This is a hybrid AI Dungeon Master prototype. The local model and rules decide intent and monster behavior. Gemini is only the narrator.”
+- “You can see the local model outputs in the sidebar panel for transparency.”
+
+2) Start the game (10s)
+- Select 1–2 players and click Start Game.
+- Point out the parchment styling, story log, and sidebar (location, party, dice log).
+
+3) Quick actions (20–30s)
+- Click “Explore” then “Talk” to show sensible outcomes and narration.
+- Explain that Gemini (or fallback) narrates but never changes state or outcomes.
+
+4) Typed inputs (30s)
+- Type a fuzzy or nonsense input like “blorpfish??”. Show that the system still produces helpful narration and next steps via the rule-based engine.
+- Type “attack the threat”. Show intent classified as “attack” and the monster behavior output.
+
+5) Transparency (10s)
+- Highlight the sidebar’s “Local Model Outputs”: intent label, confidence, and monster action.
+- Emphasize: “Hybrid prototype: local model = rules/intent/monster; Gemini = narrator only.”
+
+6) Wrap-up (10s)
+- “The UI is designed to be teacher-proof: any input yields meaningful narrative. The ML part is visible, and Gemini is constrained to narration.”+
+
+

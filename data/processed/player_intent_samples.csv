@@ -1,0 +1,72 @@
+text,intent
+"attack the goblin with my sword",attack
+"swing axe at the nearest enemy",attack
+"launch a fireball towards the ogre",attack
+"stab the orc",attack
+"smash the skeleton's skull",attack
+"strike the troll before it flees",attack
+"shoot an arrow at the bandit",attack
+"deliver a smiting blow",attack
+"rush and tackle the cultist",attack
+"use my dagger on the shadow",attack
+"run away toward the village gate",flee
+"fall back to the tavern",flee
+"retreat and regroup",flee
+"sprint toward the exit tunnel",flee
+"hide behind the rocks and escape",flee
+"withdraw from the battlefield",flee
+"dash out of the ruins",flee
+"get everyone out of the cave",flee
+"flee back to camp",flee
+"escape the monster",flee
+"talk to the tavern keeper",talk
+"ask the villagers for rumors",talk
+"negotiate with the bandit leader",talk
+"try to persuade the guard",talk
+"question the merchant about supplies",talk
+"greet the mysterious stranger",talk
+"parley with the dragon",talk
+"call out to the spirits",talk
+"request an audience with the mayor",talk
+"chat with Hemal about the plan",talk
+"inspect the old statue",inspect
+"examine the strange markings",inspect
+"look around the campsite",inspect
+"investigate the footprints",inspect
+"study the magical rune",inspect
+"search the ruins for clues",inspect
+"check the inventory list",inspect
+"observe the surrounding forest",inspect
+"scrutinize the suspicious crate",inspect
+"analyze the glowing crystal",inspect
+"explore the northern corridor",explore
+"survey the surrounding area",explore
+"scout the eastern path",explore
+"wander deeper into the forest",explore
+"venture into the ruins",explore
+"map the underground tunnels",explore
+"travel toward the mountains",explore
+"move quietly through the canyon",explore
+"navigate the labyrinth",explore
+"advance toward the torchlight",explore
+"drink a healing potion",use_item
+"apply bandages to my wounds",use_item
+"use the antidote from my bag",use_item
+"light a torch",use_item
+"climb the rope ladder",use_item
+"set up a defensive ward",use_item
+"activate the rune stone",use_item
+"throw caltrops behind us",use_item
+"cast shield of faith",use_item
+"equip the silver sword",use_item
+"sing a rallying song for the party",support
+"inspire Hemal with bardic magic",support
+"bless the group before battle",support
+"cover Dhwanish so he can strike",support
+"distract the enemy with illusions",support
+"taunt the monster to draw aggro",support
+"guard the healer while she casts",support
+"coordinate an ambush",support
+"help Hemal climb the wall",support
+"steady the torch for better vision",support
+

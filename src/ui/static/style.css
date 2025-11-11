@@ -1,0 +1,16 @@
+/* Minimal parchment styling; optional to import in Streamlit if desired */
+body {
+  background: #f4edd4;
+  color: #2b2b2b;
+}
+
+.parchment {
+  background: #fbf6e8;
+  border: 1px solid #d9c9a3;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+}
+
+/* removed dashboard-specific nav/hero/card-lg styles */
+
+
